@@ -2,60 +2,85 @@
 
 # loading packages
 library(tidyverse)
+library(magrittr)
 library(fuzzyjoin)
+library(readxl)
 
-# get data
-vk_ru <- read_csv("data/russia_vk_cities_all.csv")
-pop_ru <- read_csv("data/russia_pop_sizes.csv")
-vk_ua <- read_csv("data/ukraine_vk_cities_all.csv")
-pop_ua <- read_csv("data/ukraine_pop_sizes.csv")
+# new joining function: taking into account the already existing alternative names
 
-# write function to join closest cities to tbl
-
-join_iteratively <- function(real_cities_vec, false_cities_vec, max_distance = 3) {
+## the function assumes a tibble in wide format like the one we have here
+## the city's "real" name is in the first column, called "real_name"
+## the alternative names are in the subsequent ones, called "alternative_notion_1", "alternative_notion_2", etc.
+## for the merge, we need one tibble with one column which is called "city"
+## 
   
-  real_cities_tbl <- real_cities_vec %>% # create tibble
-    enframe() %>% 
-    select(real_city = value) %>% 
-    filter(!is.na(real_city))
-  
-  false_cities_tbl <- false_cities_vec %>% # create tibble
-    enframe() %>% 
-    select(false_city = value) %>% 
-    filter(!is.na(false_city))
-  
-  i <- 0 # set index for while loop
-  output <- vector("list", length = max_distance) # create list to fill
-  
-  while (i < max_distance) {
-    i <- i + 1
-    output[[i]] <- real_cities_tbl %>% # fill list
-      stringdist_inner_join(false_cities_tbl, # fuzzy join
-                        by = c(real_city = "false_city"),
-                        max_dist = i, # distance 1...max_distance(defaults to 3)
-                        distance_col = "distance") %>% 
-      select(real_city, false_city) %>% # get rid of distance column
-      group_by(real_city) %>% 
-      mutate(id = 1,
-             id = cumsum(id)) %>% # ids for spreading
-      pivot_wider(names_from = id, values_from = false_city) # spread it
-  
-  }
-  return(output)
+join_it <- function(df_population_data, df_vk_data, distance = 1) {  
+  temp_list <- df_population_data %>% 
+    map(as.character) %>% 
+    transpose() %>% 
+    map(as.character) %>% 
+    map(enframe) %>% 
+    map(~mutate(.x, value = replace_na(value, "xyz12345"))) %>%
+    map(~{
+      stringdist_left_join(.x, df_vk_data,
+                           by = c(value = "city"),
+                           max_dist = distance,
+                           distance_col = "distance") %>% 
+      wrangle_it()
+    }) 
+  max_length <- temp_list %>% 
+    map_dbl(length) %>% 
+    max()
+  names <- c("real_name",
+             "alternative_notion_1", 
+             "alternative_notion_2",
+             "alternative_notion_3",
+             "alternative_notion_4",
+             paste0("match_", 1:(max_length-5)))
+  temp_list %<>% 
+    map(`length<-`, max_length) %>% 
+    map(set_names, names)
+  do.call(bind_rows, temp_list)
 }
 
-output_ru <- join_iteratively(pop_ru$Name, vk_ru$city.title, max_distance = 3)
+# auxiliary functions
 
-output_merged <- vector("list", length = 3)
-for (i in 1:length(output_ru)) {
-  output_merged[[i]] <- pop_ru %>% 
-    right_join(output_ru[[i]], by = c("Name" = "real_city")) %>% # merge original tibble
-    arrange(desc(Pop2019))
+## for join_it()
+
+wrangle_it <- function(my_tibble) {
+  real_names <- my_tibble %>% 
+    filter(value != "xyz12345") %>% 
+    distinct(value) %>% 
+    pull(value)
+  
+  vk_names <- my_tibble %>%
+    select(-value, -name, -distance) %>% 
+    pmap(c) %>% 
+    reduce(c) %>% 
+    unname() 
+  vk_names <- vk_names[!is.na(vk_names)]
+  vk_names <- unique(vk_names)
+  
+  length(real_names) <- 5
+  
+  c(real_names, vk_names)
 }
 
-# write csvs for checking in Excel
+## for preprocessing the (already matched) population data for join_it()
 
-for (i in 1:length(output_merged)) {
-  name <- paste0("data/cities-distance", i, ".csv")
-  write_csv(output_merged[[i]], name)
+preprocess_population_tbl <- function(population_tbl) {
+  population_tbl %>% select(real_name = 1, 
+         alternative_notion_1 = 6, 
+         alternative_notion_2 = 7,
+         alternative_notion_3 = 8, 
+         alternative_notion_4 = 9)
 }
+
+## for preprocessing the vk data
+
+preprocess_vk_tbl <- function(vk_tbl) {
+  vk_tbl %>% 
+    select(city = city.title) %>% 
+    filter(!is.na(city))
+}
+

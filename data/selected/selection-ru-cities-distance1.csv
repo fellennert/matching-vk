@@ -1,0 +1,772 @@
+Name,Administration,Pop2010,Pop2019,Region,city,city2,1,2
+Moskva,GMO,11612885,12432531,Central,Moscow,XYZ123,NA,NA
+Sankt-Peterburg,GSP,4879566,5383890,North West,Saint Petersburg,Leningrad,NA,NA
+Novosibirsk,NSB,1473754,1618039,Siberia,XYZ123,XYZ123,NA,NA
+Jekaterinburg,SVE,1349772,1483119,Ural,Yekaterinburg,Sverdlovsk,NA,NA
+Niznij Novgorod,NNO,1250619,1253511,Volga,Nizhny Novgorod,Gorkij,NA,NA
+Kazan,TAT,1143535,1251969,Volga,Kazan,XYZ123,NA,NA
+Celjabinsk,CEL,1130132,1200719,Ural,Chelyabinsk,XYZ123,NA,NA
+Omsk,OMS,1154116,1164815,Siberia,XYZ123,XYZ123,Omsky,NA
+Samara,SAM,1164685,1156608,Volga,XYZ123,Kujbysev,NA,NA
+Rostov-na-Donu,ROS,1089261,1133307,Southern,Rostov-on-Don,XYZ123,NA,NA
+Ufa,BAS,1062319,1124226,Volga,XYZ123,XYZ123,NA,NA
+Krasnojarsk,KNJ,973826,1095286,Siberia,Krasnoyarsk,XYZ123,NA,NA
+Voronez,VRN,975373,1054111,Central,Voronezh,XYZ123,NA,NA
+Perm,PER,991162,1053934,Volga,Perm,XYZ123,NA,NA
+Volgograd,VGG,1021215,1013468,Southern,XYZ123,XYZ123,NA,NA
+Krasnodar,KND,744995,918145,Southern,XYZ123,XYZ123,NA,NA
+Saratov,SAR,837900,841902,Volga,XYZ123,XYZ123,NA,NA
+Tjumen,TUM,581907,788666,Ural,Tyumen,XYZ123,NA,NA
+Toljatti,SAM,719632,702831,Volga,Tolyatti,XYZ123,NA,NA
+Izevsk,UDM,627734,648944,Volga,Izhevsk,Ustinov,NA,NA
+Barnaul,ALT,612401,632723,Siberia,XYZ123,XYZ123,NA,NA
+Uljanovsk,ULJ,614786,627870,Volga,Ulyanovsk,Simbirsk,NA,NA
+Irkutsk,IRK,587891,623479,Siberia,XYZ123,XYZ123,Irkutsky,NA
+Chabarovsk,CBR,577441,617473,Far East,Khabarovsk,XYZ123,NA,NA
+Jaroslavl,JAR,591486,609828,Central,Yaroslavl,XYZ123,NA,NA
+Vladivostok,PRI,592034,605049,Far East,XYZ123,XYZ123,NA,NA
+Machackala,DAG,572076,601286,Northern Caucasus,Makhachkala,XYZ123,NA,NA
+Tomsk,TOM,524669,575352,Siberia,XYZ123,XYZ123,NA,NA
+Orenburg,ORB,548331,565341,Volga,XYZ123,XYZ123,NA,NA
+Kemerovo,KEM,532981,558662,Siberia,XYZ123,XYZ123,NA,NA
+Novokuzneck,KEM,547904,552105,Siberia,Novokuznetsk,XYZ123,NA,NA
+Rjazan,RAZ,524927,539789,Central,Ryazan,XYZ123,NA,NA
+Astrachan,AST,520339,534241,Southern,Astrakhan,XYZ123,NA,NA
+Nabereznyje Celny,TAT,513193,533907,Volga,Naberezhnye Chelny,Bresnev,NA,NA
+Penza,PEN,517311,522317,Volga,XYZ123,XYZ123,NA,NA
+Kirov,KIR,473695,512954,Volga,XYZ123,Viatka,NA,NA
+Lipeck,LIP,508887,509420,Central,Lipetsk,XYZ123,NA,NA
+Ceboksary,CUV,453721,495317,Volga,Cheboksary,XYZ123,NA,NA
+Balasicha,MOS,346751,490047,Central,Balashikha,Zeleznodoroznyj,NA,NA
+Kaliningrad,KLN,431902,482443,North West,XYZ123,Konigsberg,NA,NA
+Tula,TUL,501169,479105,Central,XYZ123,XYZ123,NA,NA
+Kursk,KRS,415159,449556,Central,XYZ123,XYZ123,NA,NA
+Soci,KND,343334,438726,Southern,Sochi,XYZ123,NA,NA
+Stavropol,STA,398539,437367,Northern Caucasus,Stavropol,XYZ123,NA,NA
+Ulan-Ude,BUR,404426,435496,Far East,XYZ123,XYZ123,NA,NA
+Tver,TVE,403606,420850,Central,Tver,Kalinin,NA,NA
+Magnitogorsk,CEL,407775,413267,Ural,XYZ123,XYZ123,NA,NA
+Ivanovo,IVA,408330,405053,Central,XYZ123,XYZ123,NA,NA
+Brjansk,BRA,415721,404793,Central,Bryansk,XYZ123,NA,NA
+Belgorod,BEL,356402,392426,Central,XYZ123,XYZ123,NA,NA
+Surgut,TUM,306675,373940,Ural,XYZ123,XYZ123,NA,NA
+Vladimir,VLA,345373,357907,Central,XYZ123,XYZ123,NA,NA
+Niznij Tagil,SVE,361811,352135,Ural,Nizhny Tagil,XYZ123,NA,NA
+Cita,ZAB,324444,349983,Far East,Chita,XYZ123,NA,NA
+Archangelsk,ARC,348783,348343,North West,Arkhangelsk,XYZ123,NA,NA
+Simferopol,NA,NA,338319,Crim,XYZ123,XYZ123,NA,NA
+Kaluga,KLG,324698,336726,Central,XYZ123,XYZ123,NA,NA
+Smolensk,SMO,326861,329427,Central,XYZ123,XYZ123,NA,NA
+Volzskij,VGG,327089,323604,Southern,Volzhsky,XYZ123,NA,NA
+Jakutsk,SCA,269601,318768,Far East,Yakutsk,XYZ123,NA,NA
+Saransk,MOR,297415,318578,Volga,XYZ123,XYZ123,Yaransk,NA
+Cerepovec,VLD,312310,316529,North West,Cherepovets,XYZ123,NA,NA
+Kurgan,KGN,333606,315311,Ural,XYZ123,XYZ123,NA,NA
+Vologda,VLD,301755,311846,North West,XYZ123,XYZ123,NA,NA
+Orel,ORL,317747,311625,Central,Oryol,XYZ123,NA,NA
+Vladikavkaz,SOE,311693,304897,Northern Caucasus,XYZ123,Ordzonikidse,NA,NA
+Podolsk,MOS,255002,304245,Central,Podolsk,"Klimovsk, Lvovskij",NA,NA
+Groznyj,CEC,271573,301253,Northern Caucasus,Grozny,XYZ123,NA,NA
+Murmansk,MUR,315953,292465,North West,XYZ123,XYZ123,NA,NA
+Tambov,TAM,280161,291663,Central,XYZ123,XYZ123,NA,NA
+Petrozavodsk,KAR,261987,280170,North West,XYZ123,XYZ123,NA,NA
+Sterlitamak,BAS,273486,278127,Volga,XYZ123,XYZ123,NA,NA
+Niznevartovsk,TUM,251694,276503,Ural,Nizhnevartovsk,XYZ123,NA,NA
+Kostroma,KOS,268742,276064,Central,XYZ123,XYZ123,NA,NA
+Novorossijsk,KND,241952,275197,Southern,Novorossiysk,XYZ123,NA,NA
+Joskar-Ola,MRE,248782,271868,Volga,Yoshkar-Ola,XYZ123,Joshkar-Ola,NA
+Chimki,MOS,207425,254748,Central,Khimki,XYZ123,NA,NA
+Taganrog,ROS,257681,248664,Southern,XYZ123,XYZ123,NA,NA
+Komsomolsk-na-Amure,CBR,263906,246607,Far East,Komsomolsk-on-Amur,XYZ123,NA,NA
+Syktyvkar,KOM,235006,244797,North West,XYZ123,XYZ123,NA,NA
+Niznekamsk,TAT,234044,238879,Volga,Nizhnekamsk,XYZ123,NA,NA
+Nalcik,KBA,240203,238710,Northern Caucasus,Nalchik,XYZ123,NA,NA
+Sachty,ROS,239987,231646,Southern,Shakhty,XYZ123,NA,NA
+Dzerzinsk,NNO,240742,229470,Volga,Dzerzhinsk,XYZ123,NA,NA
+Orsk,ORB,239800,227924,Volga,XYZ123,XYZ123,NA,NA
+Bratsk,IRK,246319,227467,Siberia,XYZ123,XYZ123,NA,NA
+Blagovescensk,AMU,214390,225810,Far East,Blagoveshchensk,XYZ123,Blagoveschensk,Blagoveschensk
+Engels,SAR,202419,225731,Volga,Engels,XYZ123,NA,NA
+Angarsk,IRK,233567,225489,Siberia,XYZ123,XYZ123,NA,NA
+Korolev,MOS,216639,224533,Central,Korolyov,Kaliningrad; Jubilejnyj,NA,NA
+Velikij Novgorod,NGR,218717,224297,North West,Veliky Novgorod,XYZ123,Velikiy Novgorod,NA
+Staryj Oskol,BEL,221085,223809,Central,Stary Oskol,XYZ123,NA,NA
+Mytisci,MOS,179834,222739,Central,Mytishchi,Pirogovskij,Mytischi,NA
+Pskov,PSK,203279,210116,North West,XYZ123,XYZ123,NA,NA
+Ljubercy,MOS,172525,207349,Central,Lyubertsy,XYZ123,NA,NA
+Juzno-Sachalinsk,SCL,181728,200854,Far East,Yuzhno-Sakhalinsk,XYZ123,NA,NA
+Bijsk,ALT,210115,200629,Siberia,Biysk,XYZ123,NA,NA
+Prokopjevsk,KEM,210130,191839,Siberia,Prokopyevsk,XYZ123,NA,NA
+Armavir,KND,188832,190205,Southern,XYZ123,XYZ123,NA,NA
+Balakovo,SAR,199690,188489,Volga,XYZ123,XYZ123,NA,NA
+Rybinsk,JAR,200771,186575,Central,XYZ123,Andropov,NA,NA
+Abakan,CKS,165214,186201,Siberia,XYZ123,XYZ123,NA,NA
+Severodvinsk,ARC,192353,182291,North West,XYZ123,XYZ123,NA,NA
+Petropavlovsk-Kamcatskij,KAM,179780,181181,Far East,Petropavlovsk-Kamchatsky,XYZ123,NA,NA
+Norilsk,KNJ,175365,180976,Siberia,Norilsk,XYZ123,NA,NA
+Ussurijsk,PRI,158004,173165,Far East,Ussuriysk,XYZ123,NA,NA
+Volgodonsk,ROS,170841,171952,Southern,XYZ123,XYZ123,NA,NA
+Krasnogorsk,MOS,116896,171793,Central,XYZ123,XYZ123,NA,NA
+Syzran,SAM,178750,168735,Volga,Syzran,XYZ123,NA,NA
+Novocerkassk,ROS,168746,167355,Southern,Novocherkassk,XYZ123,NA,NA
+Kamensk-Uralskij,SVE,174689,167354,Ural,Kamensk-Uralsky,XYZ123,NA,NA
+Zlatoust,CEL,174962,165375,Ural,XYZ123,XYZ123,NA,NA
+Elektrostal,MOS,155196,157371,Central,Elektrostal,XYZ123,NA,NA
+Almetjevsk,TAT,146393,157310,Volga,Almetyevsk,XYZ123,NA,NA
+Salavat,BAS,156095,151571,Volga,XYZ123,XYZ123,NA,NA
+Miass,CEL,151751,151275,Ural,XYZ123,XYZ123,NA,NA
+Kopejsk,CEL,137601,148232,Ural,Kopeysk,XYZ123,NA,NA
+Nachodka,PRI,159719,147468,Far East,Nakhodka,XYZ123,NA,NA
+Pjatigorsk,STA,142511,146262,Northern Caucasus,Pyatigorsk,XYZ123,NA,NA
+Kerc,NA,NA,144626,Crim,Kerch,XYZ123,NA,NA
+Chasavjurt,DAG,131187,142747,Northern Caucasus,Khasavyurt,XYZ123,NA,NA
+Rubcovsk,ALT,147002,142551,Siberia,Rubtsovsk,XYZ123,NA,NA
+Berezniki,PER,156466,141276,Volga,XYZ123,XYZ123,NA,NA
+Kolomna,MOS,144589,141106,Central,XYZ123,XYZ123,NA,NA
+Majkop,ADY,144249,140539,Southern,Maykop,XYZ123,NA,NA
+Odincovo,MOS,138930,137528,Central,Odintsovo,XYZ123,NA,NA
+Kovrov,VLA,145214,135949,Central,XYZ123,XYZ123,NA,NA
+Domodedovo,MOS,96145,133528,Central,XYZ123,XYZ123,NA,NA
+Neftekamsk,BAS,121733,129173,Volga,XYZ123,Nikolo-Berezovka,NA,NA
+Kislovodsk,STA,128553,129098,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Neftejugansk,TUM,122855,127710,Ural,Nefteyugansk,XYZ123,NA,NA
+Batajsk,ROS,111843,127654,Southern,Bataysk,XYZ123,NA,NA
+Novoceboksarsk,CUV,124097,126794,Volga,Novocheboksarsk,XYZ123,NA,NA
+Serpuchov,MOS,127041,124897,Central,Serpukhov,XYZ123,NA,NA
+Scelkovo,MOS,110411,124831,Central,Shchyolkovo,XYZ123,NA,NA
+Derbent,DAG,119200,124677,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Novomoskovsk,TUL,131386,123211,Central,XYZ123,XYZ123,NA,NA
+Cerkessk,KCE,129069,122804,Northern Caucasus,Cherkessk,XYZ123,NA,NA
+Pervouralsk,SVE,124528,122183,Ural,Pervouralsk,XYZ123,NA,NA
+Ramenskoje,MOS,96317,119903,Central,Ramenskoye,XYZ123,Ramenskoe,NA
+Nazran,ING,93335,119842,Northern Caucasus,Nazran,XYZ123,NA,NA
+Kaspijsk,DAG,100129,119238,Northern Caucasus,Kaspiysk,XYZ123,NA,NA
+Obninsk,KLG,104739,118151,Central,XYZ123,XYZ123,NA,NA
+Orechovo-Zujevo,MOS,120670,118004,Central,Orekhovo-Zuyevo,XYZ123,NA,NA
+Kyzyl,TYV,109918,117904,Siberia,XYZ123,XYZ123,NA,NA
+Novyj Urengoj,TUM,104107,116938,Ural,Novy Urengoy,XYZ123,NA,NA
+Nevinnomyssk,STA,118360,116884,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Dimitrovgrad,ULJ,122580,114229,Volga,XYZ123,XYZ123,NA,NA
+Oktjabrskij,BAS,109474,114194,Volga,Oktyabrsky,XYZ123,NA,NA
+Dolgoprudnyj,MOS,90956,112007,Central,Dolgoprudny,XYZ123,NA,NA
+Jessentuki,STA,100996,110479,Northern Caucasus,Yessentuki,XYZ123,NA,NA
+Kamysin,VGG,119565,110318,Southern,Kamyshin,XYZ123,NA,NA
+Murom,VLA,116075,108121,Central,XYZ123,XYZ123,NA,NA
+Zukovskij,MOS,104736,107922,Central,Zhukovsky,XYZ123,NA,NA
+Novosachtinsk,ROS,111075,107539,Southern,Novoshakhtinsk,XYZ123,NA,NA
+Seversk,TOM,108590,107036,Siberia,XYZ123,Tomsk-7,NA,NA
+Evpatorija,NA,NA,107000,Crim,Yevpatoria,XYZ123,Evpatoria,NA
+Reutov,MOS,87314,106962,Central,XYZ123,XYZ123,NA,NA
+Puskino,MOS,102874,106836,Central,Pushkino,XYZ123,NA,NA
+Artem,PRI,102603,106460,Far East,Artyom,XYZ123,NA,NA
+Nojabrsk,TUM,110620,106135,Ural,Noyabrsk,XYZ123,NA,NA
+Acinsk,KNJ,109155,105092,Siberia,Achinsk,XYZ123,NA,NA
+Berdsk,NSB,97296,104237,Siberia,XYZ123,XYZ123,NA,NA
+Arzamas,NNO,106362,103930,Volga,XYZ123,XYZ123,NA,NA
+Jelec,LIP,108404,103179,Central,Yelets,XYZ123,NA,NA
+Elista,KMK,103749,102618,Southern,XYZ123,XYZ123,NA,NA
+Noginsk,MOS,100072,102295,Central,XYZ123,XYZ123,NA,NA
+Sergijev Posad,MOS,111179,101967,Central,Sergiyev Posad,Zagorsk,Sergiev Posad,NA
+Novokujbysevsk,SAM,108438,100940,Volga,Novokuybyshevsk,XYZ123,NA,NA
+Zeleznogorsk,KRS,95049,100499,Central,Zheleznogorsk,XYZ123,NA,NA
+Zelenodolsk,TAT,97674,99743,Volga,Zelenodolsk,XYZ123,NA,NA
+Chanty-Mansijsk,TUM,80151,99385,Ural,Khanty-Mansiysk,XYZ123,NA,NA
+Tobolsk,TUM,99694,98857,Ural,Tobolsk,XYZ123,NA,NA
+Votkinsk,UDM,99022,97345,Volga,XYZ123,XYZ123,NA,NA
+Serov,SVE,99373,96613,Ural,XYZ123,XYZ123,NA,NA
+Sarapul,UDM,101381,96361,Volga,XYZ123,XYZ123,NA,NA
+Mezdurecensk,KEM,101678,96159,Siberia,Mezhdurechensk,XYZ123,NA,NA
+Uchta,KOM,99591,95960,North West,Ukhta,XYZ123,NA,NA
+Sarov,NNO,92047,95469,Volga,XYZ123,Arzamas-16,NA,NA
+Leninsk-Kuzneckij,KEM,101666,95279,Siberia,Leninsk-Kuznetsky,XYZ123,NA,NA
+Gatcina,LEN,92937,93710,North West,Gatchina,XYZ123,NA,NA
+Michajlovsk,STA,70981,93658,Northern Caucasus,Mikhaylovsk,XYZ123,NA,NA
+Voskresensk,MOS,91464,93205,Central,XYZ123,XYZ123,NA,NA
+Solikamsk,PER,97384,93118,Volga,XYZ123,XYZ123,NA,NA
+Glazov,UDM,95854,92381,Volga,XYZ123,XYZ123,NA,NA
+Magadan,MAG,95982,91781,Far East,XYZ123,XYZ123,NA,NA
+Micurinsk,TAM,98758,91623,Central,Michurinsk,XYZ123,NA,NA
+Velikije Luki,PSK,98778,90549,North West,Velikiye Luki,XYZ123,Velikie Luki,NA
+Lobnja,MOS,74252,89339,Central,Lobnya,XYZ123,NA,NA
+Kansk,KNJ,94226,89111,Siberia,XYZ123,XYZ123,NA,NA
+Kamensk-Sachtinskij,ROS,95296,88319,Southern,Kamensk-Shakhtinsky,XYZ123,NA,NA
+Kiselevsk,KEM,98365,88192,Siberia,Kiselyovsk,XYZ123,NA,NA
+Gubkin,BEL,88560,86422,Central,XYZ123,XYZ123,NA,NA
+Buzuluk,ORB,82904,86050,Volga,XYZ123,XYZ123,NA,NA
+Novotroick,ORB,98173,84897,Volga,Novotroitsk,XYZ123,NA,NA
+Bugulma,TAT,89204,83536,Volga,Bugulma,XYZ123,NA,NA
+Zeleznogorsk,KNJ,84795,83386,Siberia,Zheleznogorsk,Krasnojarsk-26,NA,NA
+Jejsk,KND,87769,83053,Southern,Yeysk,XYZ123,NA,NA
+Cajkovskij,PER,82895,82656,Volga,Chaykovsky,XYZ123,NA,NA
+Kinesma,IVA,88164,81986,Central,Kineshma,XYZ123,NA,NA
+Anapa,KND,58990,81447,Southern,XYZ123,XYZ123,NA,NA
+Ust-Ilimsk,IRK,86610,81081,Siberia,XYZ123,XYZ123,NA,NA
+Jurga,KEM,81533,81073,Siberia,Yurga,XYZ123,NA,NA
+Kuzneck,PEN,88839,81027,Volga,Kuznetsk,XYZ123,NA,NA
+Novouralsk,SVE,85522,80723,Ural,Novouralsk,Sverdlovsk-44,NA,NA
+Azov,ROS,82937,80286,Southern,XYZ123,XYZ123,NA,NA
+Klin,MOS,80585,79387,Central,XYZ123,XYZ123,NA,NA
+Ivantejevka,MOS,58626,79346,Central,Ivanteyevka,XYZ123,Ivanteevka,NA
+Ozersk,CEL,82164,78811,Ural,Ozyorsk,Celabinsk-65,NA,NA
+Kropotkin,KND,80765,78149,Southern,XYZ123,XYZ123,NA,NA
+Bor,NNO,78058,77454,Volga,XYZ123,XYZ123,NA,NA
+Gelendzik,KND,54980,77212,Southern,Gelendzhik,XYZ123,NA,NA
+Usolje-Sibirskoje,IRK,83327,76846,Siberia,Usolye-Sibirskoye,XYZ123,NA,NA
+Vyborg,LEN,79962,76389,North West,XYZ123,XYZ123,NA,NA
+Balasov,SAR,82227,76032,Volga,Balashov,XYZ123,NA,NA
+Cernogorsk,CKS,72147,75042,Siberia,Chernogorsk,XYZ123,NA,NA
+Dubna,MOS,70663,75001,Central,XYZ123,XYZ123,NA,NA
+Sadrinsk,KGN,77756,74929,Ural,Shadrinsk,XYZ123,NA,NA
+Vsevolozsk,LEN,59704,74263,North West,Vsevolozhsk,XYZ123,NA,NA
+Mineralnyje Vody,STA,76728,74141,Northern Caucasus,Mineralnye Vody,XYZ123,NA,NA
+Jelabuga,TAT,70728,73913,Volga,Yelabuga,XYZ123,NA,NA
+Novoaltajsk,ALT,70437,73769,Siberia,Novoaltaysk,XYZ123,NA,NA
+Troick,CEL,78372,73154,Ural,Troitsk,XYZ123,NA,NA
+Birobidzan,JEV,75413,73129,Far East,Birobidzhan,XYZ123,NA,NA
+Capajevsk,SAM,72692,72225,Volga,Chapayevsk,XYZ123,NA,NA
+Jegorjevsk,MOS,70081,72070,Central,Yegoryevsk,XYZ123,NA,NA
+Cechov,MOS,60720,71932,Central,Chekhov,XYZ123,NA,NA
+Belovo,KEM,76764,71812,Siberia,XYZ123,XYZ123,NA,NA
+Vidnoje,MOS,56752,71482,Central,Vidnoye,XYZ123,Vidnoe,NA
+Verchnjaja Pysma,SVE,59749,71241,Ural,Verkhnyaya Pyshma,XYZ123,NA,NA
+Kirovo-Cepeck,KIR,80921,70722,Volga,Kirovo-Chepetsk,XYZ123,NA,NA
+Anzero-Sudzensk,KEM,76646,69253,Siberia,Anzhero-Sudzhensk,XYZ123,NA,NA
+Dmitrov,MOS,61305,68666,Central,XYZ123,XYZ123,NA,NA
+Tujmazy,BAS,66836,68587,Volga,Tuymazy,XYZ123,NA,NA
+Sosnovyj Bor,LEN,65788,68344,North West,Sosnovy Bor,XYZ123,NA,NA
+Minusinsk,KNJ,71170,68002,Siberia,XYZ123,XYZ123,NA,NA
+Kstovo,NNO,66657,67439,Volga,XYZ123,XYZ123,NA,NA
+Georgijevsk,STA,72153,67054,Northern Caucasus,Georgiyevsk,XYZ123,Georgievsk,NA
+Slavjansk-na-Kubani,KND,63842,66829,Southern,Slavyansk-na-Kubani,XYZ123,NA,NA
+Kogalym,TUM,58181,66720,Ural,XYZ123,XYZ123,NA,NA
+Sunza,ING,61598,66047,Northern Caucasus,Sunzha,Ordzonikidzevskaja,NA,NA
+Stupino,MOS,66816,65990,Central,XYZ123,XYZ123,NA,NA
+Belogorsk,AMU,68249,65809,Far East,XYZ123,XYZ123,Belomorsk,NA
+Bujnaksk,DAG,62623,65544,Northern Caucasus,Buynaksk,XYZ123,NA,NA
+Kungur,PER,66074,65284,Volga,XYZ123,XYZ123,NA,NA
+Zarecnyj,PEN,63601,65194,Volga,Zarechny,Penza-19,NA,NA
+Beloreck,BAS,68806,65054,Volga,Beloretsk,XYZ123,NA,NA
+Isim,TUM,65243,64653,Ural,Ishim,XYZ123,NA,NA
+Isimbaj,BAS,66259,64307,Volga,Ishimbay,XYZ123,NA,NA
+Pavlovskij Posad,MOS,63711,63940,Central,Pavlovsky Posad,XYZ123,Pavlovskiy Posad,NA
+Gorno-Altajsk,ALZ,56933,63845,Siberia,Gorno-Altaysk,XYZ123,NA,NA
+Gukovo,ROS,67278,63771,Southern,XYZ123,XYZ123,NA,NA
+Asbest,SVE,68893,63325,Ural,XYZ123,XYZ123,NA,NA
+Klincy,BRA,62510,63050,Central,Klintsy,XYZ123,NA,NA
+Donskoj,TUL,64552,63014,Central,Donskoy,XYZ123,NA,NA
+Naro-Fominsk,MOS,64665,62970,Central,XYZ123,XYZ123,NA,NA
+Rossos,VRN,62865,62716,Central,Rossosh,XYZ123,NA,NA
+Revda,SVE,61875,62326,Ural,XYZ123,XYZ123,NA,NA
+Volsk,SAR,66508,62195,Volga,Volsk,XYZ123,NA,NA
+Budennovsk,STA,64624,62073,Northern Caucasus,Budyonnovsk,XYZ123,NA,NA
+Leninogorsk,TAT,64127,61974,Volga,XYZ123,XYZ123,NA,NA
+Tuapse,KND,63292,61938,Southern,XYZ123,XYZ123,NA,NA
+Zelenogorsk,KNJ,66056,61915,Siberia,XYZ123,Krasnojarsk-45,NA,NA
+Kotlas,ARC,60562,61821,North West,XYZ123,XYZ123,NA,NA
+Sibaj,BAS,62763,61344,Volga,Sibay,XYZ123,NA,NA
+Polevskoj,SVE,64220,61332,Ural,Polevskoy,XYZ123,NA,NA
+Urus-Martan,CEC,49070,61221,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Lysva,PER,65918,60947,Volga,Lysva,XYZ123,NA,NA
+Borisoglebsk,VRN,65585,60878,Central,XYZ123,XYZ123,NA,NA
+Frjazino,MOS,55369,59987,Central,Fryazino,XYZ123,NA,NA
+Labinsk,KND,62864,59842,Southern,XYZ123,XYZ123,NA,NA
+Cistopol,TAT,60755,59816,Volga,Chistopol,XYZ123,NA,NA
+Kumertau,BAS,62851,59762,Volga,XYZ123,XYZ123,NA,NA
+Izberbas,DAG,55646,59494,Northern Caucasus,Izberbash,XYZ123,NA,NA
+Lesosibirsk,KNJ,61139,59356,Siberia,XYZ123,XYZ123,NA,NA
+Belebej,BAS,60188,59137,Volga,Belebey,XYZ123,NA,NA
+Berezovskij,SVE,51651,58771,Ural,Beryozovsky,XYZ123,NA,NA
+Aleksandrov,VLA,61551,58741,Central,Alexandrov,XYZ123,NA,NA
+Lytkarino,MOS,55237,58606,Central,XYZ123,XYZ123,NA,NA
+Rzev,TVE,61982,58596,Central,Rzhev,XYZ123,NA,NA
+Njagan,TUM,54890,58335,Ural,Nyagan,XYZ123,NA,NA
+Tichvin,LEN,58459,58068,North West,Tikhvin,XYZ123,NA,NA
+Aleksin,TUL,61732,57950,Central,XYZ123,XYZ123,NA,NA
+Prochladnyj,KBA,59601,57883,Northern Caucasus,Prokhladny,XYZ123,NA,NA
+Michajlovka,VGG,59132,57829,Southern,Mikhaylovka,XYZ123,NA,NA
+Krymsk,KND,57382,57822,Southern,XYZ123,XYZ123,NA,NA
+Tichoreck,KND,61823,57771,Southern,Tikhoretsk,XYZ123,NA,NA
+Scekino,TUL,58139,57683,Central,Shchyokino,XYZ123,Schekino,NA
+Suja,IVA,58486,57569,Central,Shuya,XYZ123,NA,NA
+Meleuz,BAS,61390,57248,Volga,XYZ123,XYZ123,NA,NA
+Salsk,ROS,61316,57128,Southern,Salsk,XYZ123,NA,NA
+Pavlovo,NNO,60698,57028,Volga,XYZ123,XYZ123,NA,NA
+Nerjungri,SCA,61747,56888,Far East,Neryungri,XYZ123,NA,NA
+Krasnoturinsk,SVE,59633,56584,Ural,Krasnoturyinsk,XYZ123,NA,NA
+Iskitim,NSB,60078,56411,Siberia,XYZ123,XYZ123,NA,NA
+Dzerzinskij,MOS,47163,56257,Central,Dzerzhinsky,XYZ123,NA,NA
+Apatity,MUR,59672,55201,North West,XYZ123,XYZ123,NA,NA
+Sertolovo,LEN,47457,54497,North West,XYZ123,XYZ123,NA,NA
+Vorkuta,KOM,70548,54223,North West,XYZ123,XYZ123,NA,NA
+Sali,CEC,47708,54168,Northern Caucasus,Shali,XYZ123,Saki,NA
+Gudermes,CEC,45631,53957,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Liski,VRN,55864,53634,Central,XYZ123,XYZ123,NA,NA
+Gus-Chrustalnyj,VLA,60784,53606,Central,Gus-Khrustalny,XYZ123,NA,NA
+Volzsk,MRE,55659,53581,Volga,Volzhsk,XYZ123,NA,NA
+Svobodnyj,AMU,58778,53404,Far East,Svobodny,XYZ123,NA,NA
+Krasnokamsk,PER,51916,53245,Volga,XYZ123,XYZ123,NA,NA
+Vyksa,NNO,56201,52822,Volga,XYZ123,XYZ123,NA,NA
+Severomorsk,MUR,50060,52597,North West,XYZ123,XYZ123,NA,NA
+Zigulevsk,SAM,55565,52455,Volga,Zhigulyovsk,XYZ123,Zhigulevsk,NA
+Arsenjev,PRI,56750,52251,Far East,Arsenyev,XYZ123,NA,NA
+Belorecensk,KND,53892,51935,Southern,Belorechensk,XYZ123,NA,NA
+Vjazma,SMO,57101,51790,Central,Vyazma,XYZ123,NA,NA
+Krasnokamensk,ZAB,55666,51648,Far East,XYZ123,XYZ123,NA,NA
+Solnecnogorsk,MOS,52944,51612,Central,Solnechnogorsk,XYZ123,NA,NA
+Snezinsk,CEL,48810,51488,Ural,Snezhinsk,Celabinsk-70,NA,NA
+Timasevsk,KND,53924,51443,Southern,Timashyovsk,XYZ123,Timashevsk,NA
+Kirisi,LEN,52309,50750,North West,Kirishi,XYZ123,NA,NA
+Ceremchovo,IRK,52647,50586,Siberia,Cheremkhovo,XYZ123,NA,NA
+Uzlovaja,TUL,55282,50508,Central,Uzlovaya,XYZ123,NA,NA
+Salechard,TUM,42544,50064,Ural,Salekhard,XYZ123,NA,NA
+Nazarovo,KNJ,52817,49825,Siberia,XYZ123,XYZ123,NA,NA
+Roslavl,SMO,54900,49405,Central,Roslavl,XYZ123,NA,NA
+Kizljar,DAG,48984,49247,Northern Caucasus,Kizlyar,XYZ123,NA,NA
+Mozga,UDM,47961,49093,Volga,Mozhga,XYZ123,NA,NA
+Borovici,NGR,53690,49071,North West,Borovichi,XYZ123,NA,NA
+Lesnoj,SVE,50363,49054,Ural,Lesnoy,Sverdlovsk-45,NA,NA
+Balachna,NNO,51519,48710,Volga,Balakhna,XYZ123,NA,NA
+Buguruslan,ORB,49741,48669,Volga,XYZ123,XYZ123,NA,NA
+Selechov,IRK,47943,48460,Siberia,Shelekhov,XYZ123,NA,NA
+Kurganinsk,KND,47970,48439,Southern,XYZ123,XYZ123,NA,NA
+Kasira,MOS,52339,48016,Central,Kashira,Ozerelje,NA,NA
+Megion,TUM,49449,47332,Ural,XYZ123,XYZ123,NA,NA
+Talnach,KNJ,47307,47307,Siberia,Talnakh,XYZ123,NA,NA
+Livny,ORL,50343,47179,Central,XYZ123,XYZ123,NA,NA
+Otradnyj,SAM,48356,47083,Volga,Otradny,XYZ123,NA,NA
+Doneck,ROS,50098,46899,Southern,Donetsk,XYZ123,NA,NA
+Kotelniki,MOS,32338,46763,Central,Kotelniki,XYZ123,NA,NA
+Sajanogorsk,CKS,49887,46709,Siberia,Sayanogorsk,XYZ123,NA,NA
+Grjazi,LIP,46807,46608,Central,Gryazi,XYZ123,NA,NA
+Birsk,BAS,41635,46362,Volga,XYZ123,XYZ123,NA,NA
+Zarinsk,ALT,48461,46254,Siberia,XYZ123,XYZ123,NA,NA
+Vysnij Volocek,TVE,52370,46211,Central,Vyshny Volochyok,XYZ123,NA,NA
+Kingisepp,LEN,48488,45858,North West,XYZ123,XYZ123,NA,NA
+Berezovskij,KEM,47279,45801,Siberia,Beryozovsky,XYZ123,NA,NA
+Nachabino,MOS,36456,45667,Central,Nakhabino,XYZ123,NA,NA
+Torzok,TVE,47644,45371,Central,Torzhok,XYZ123,NA,NA
+Kanas,CUV,45607,45222,Volga,Kanash,XYZ123,NA,NA
+Aksaj,ROS,41969,45158,Southern,Aksay,XYZ123,NA,NA
+Nadym,TUM,46611,44705,Ural,XYZ123,XYZ123,NA,NA
+Langepas,TUM,41670,44582,Ural,XYZ123,XYZ123,NA,NA
+Ruzajevka,MOR,47523,44504,Volga,Ruzayevka,XYZ123,Ruzaevka,NA
+Volchov,LEN,47182,44487,North West,Volkhov,XYZ123,NA,NA
+Kanevskaja,KND,44386,44240,Southern,Kanevskaya,XYZ123,NA,NA
+Cusovoj,PER,46735,44185,Volga,Chusovoy,XYZ123,NA,NA
+Kimry,TVE,49628,44125,Central,XYZ123,XYZ123,NA,NA
+Kujbysev,NSB,45299,43796,Siberia,Kuybyshev,XYZ123,NA,NA
+Raduznyj,TUM,43399,43726,Ural,Raduzhny,XYZ123,NA,NA
+Jarcevo,SMO,47848,43280,Central,Yartsevo,XYZ123,NA,NA
+Rasskazovo,TAM,45484,42767,Central,XYZ123,XYZ123,NA,NA
+Kolcugino,VLA,45776,42708,Central,Kolchugino,XYZ123,NA,NA
+Krasnoznamensk,MOS,36103,42472,Central,XYZ123,Golicyno-2,NA,NA
+Korenovsk,KND,41166,42174,Southern,XYZ123,XYZ123,NA,NA
+Mozdok,SOE,38768,42155,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Osinniki,KEM,46001,41887,Siberia,XYZ123,XYZ123,NA,NA
+Safonovo,SMO,46116,41510,Central,XYZ123,XYZ123,NA,NA
+Verchnjaja Salda,SVE,46221,41484,Ural,Verkhnyaya Salda,XYZ123,NA,NA
+Moncegorsk,MUR,45361,41482,North West,Monchegorsk,XYZ123,NA,NA
+Karabulak,ING,30961,41469,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Satka,CEL,45178,41339,Ural,XYZ123,XYZ123,NA,NA
+Sebekino,BEL,44279,41336,Central,Shebekino,XYZ123,NA,NA
+Tulun,IRK,44611,41279,Siberia,XYZ123,XYZ123,NA,NA
+Strezevoj,TOM,42219,41230,Siberia,Strezhevoy,XYZ123,NA,NA
+Ust-Kut,IRK,45375,41149,Siberia,XYZ123,XYZ123,NA,NA
+Temrjuk,KND,38046,41133,Southern,Temryuk,XYZ123,NA,NA
+Myski,KEM,43038,40991,Siberia,XYZ123,XYZ123,NA,NA
+Cebarkul,CEL,42844,40932,Ural,Chebarkul,XYZ123,NA,NA
+Pugacev,SAR,41707,40927,Volga,Pugachyov,XYZ123,Pugachev,NA
+Ljantor,TUM,38992,40867,Ural,Lyantor,XYZ123,NA,NA
+Kamen-na-Obi,ALT,43888,40647,Siberia,Kamen-na-Obi,XYZ123,NA,NA
+Sosnovoborsk,KNJ,33091,40614,Siberia,XYZ123,XYZ123,NA,NA
+Uraj,TUM,39457,40292,Ural,Uray,XYZ123,NA,NA
+Spassk-Dalnij,PRI,44173,40200,Far East,Spassk-Dalny,XYZ123,NA,NA
+Ust-Labinsk,KND,43270,40180,Southern,XYZ123,XYZ123,NA,NA
+Zainsk,TAT,41803,39938,Volga,XYZ123,XYZ123,NA,NA
+Jalutorovsk,TUM,36493,39919,Ural,Yalutorovsk,XYZ123,NA,NA
+Tutajev,JAR,41005,39883,Central,Tutayev,XYZ123,Tutaev,NA
+Pyt-Jach,TUM,41488,39831,Ural,Pyt-Yakh,XYZ123,NA,NA
+Apseronsk,KND,40225,39762,Southern,Apsheronsk,XYZ123,NA,NA
+Belaja Kalitva,ROS,43651,39753,Southern,Belaya Kalitva,XYZ123,NA,NA
+Novozybkov,BRA,40553,39725,Central,XYZ123,XYZ123,NA,NA
+Jelizovo,KAM,39569,39198,Far East,Yelizovo,XYZ123,NA,NA
+Sovetsk,KLN,41705,39150,North West,XYZ123,Tilsit,NA,NA
+Dinskaja,KND,34848,39100,Southern,Dinskaya,XYZ123,NA,NA
+Amursk,CBR,42970,39046,Far East,XYZ123,XYZ123,NA,NA
+Gorjacij Kljuc,KND,30126,38972,Southern,Goryachy Klyuch,XYZ123,NA,NA
+Pecora,KOM,43105,38784,North West,Pechora,XYZ123,NA,NA
+Sajansk,IRK,40800,38674,Siberia,Sayansk,XYZ123,NA,NA
+Rtiscevo,SAR,41289,38663,Volga,Rtishchevo,XYZ123,Rtischevo,NA
+Abinsk,KND,34928,38547,Southern,XYZ123,XYZ123,NA,NA
+Kackanar,SVE,41426,38441,Ural,Kachkanar,XYZ123,NA,NA
+Baksan,KBA,36860,38361,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Pereslavl-Zalesskij,JAR,41925,38255,Central,Pereslavl-Zalessky,XYZ123,NA,NA
+Kurcatov,KRS,42706,38240,Central,Kurchatov,XYZ123,NA,NA
+Morsansk,TAM,41556,38230,Central,Morshansk,XYZ123,NA,NA
+Mariinsk,KEM,40526,38209,Siberia,XYZ123,XYZ123,NA,NA
+Malgobek,ING,31018,38200,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Aleksejevka,BEL,39026,38179,Central,Alexeyevka,XYZ123,NA,NA
+Argun,CEC,29525,38169,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Krasnoufimsk,SVE,39765,38088,Ural,XYZ123,XYZ123,NA,NA
+Novodvinsk,ARC,40615,38082,North West,XYZ123,XYZ123,NA,NA
+Usinsk,KOM,40827,38038,North West,XYZ123,XYZ123,NA,NA
+Bolsoj Kamen,PRI,39257,37918,Far East,Bolshoy Kamen,XYZ123,NA,NA
+Izobilnyj,STA,40555,37868,Northern Caucasus,Izobilny,XYZ123,NA,NA
+Krasnyj Sulin,ROS,40866,37787,Southern,Krasny Sulin,XYZ123,NA,NA
+Zavolzje,NNO,40460,37758,Volga,Zavolzhye,XYZ123,NA,NA
+Ljudinovo,KLG,40530,37734,Central,Lyudinovo,XYZ123,NA,NA
+Ucaly,BAS,37788,37710,Volga,Uchaly,XYZ123,NA,NA
+Kiziljurt,DAG,32988,37588,Northern Caucasus,Kizilyurt,XYZ123,NA,NA
+Konakovo,TVE,41291,37545,Central,XYZ123,XYZ123,NA,NA
+Juznouralsk,CEL,37877,37541,Ural,Yuzhnouralsk,XYZ123,NA,NA
+Jugorsk,TUM,34067,37422,Ural,Yugorsk,XYZ123,NA,NA
+Alapajevsk,SVE,38192,37219,Ural,Alapayevsk,XYZ123,Alapaevsk,NA
+Beslan,SOE,36728,37196,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Mcensk,ORL,43222,37136,Central,Mtsensk,XYZ123,NA,NA
+Urjupinsk,VGG,41590,37109,Southern,Uryupinsk,XYZ123,NA,NA
+Partizansk,PRI,38659,36992,Far East,XYZ123,XYZ123,NA,NA
+Achtubinsk,AST,41853,36955,Southern,Akhtubinsk,XYZ123,NA,NA
+Rez,SVE,38215,36843,Ural,Rezh,XYZ123,NA,NA
+Tosno,LEN,39101,36791,North West,XYZ123,XYZ123,NA,NA
+Sarypovo,KNJ,38561,36789,Siberia,Sharypovo,XYZ123,NA,NA
+Gorjacevodskij,STA,36967,36754,Northern Caucasus,Goryachevodsky,XYZ123,NA,NA
+Sokol,VLD,38452,36668,North West,XYZ123,XYZ123,NA,NA
+Irbit,SVE,38357,36668,Ural,XYZ123,XYZ123,NA,NA
+Frolovo,VGG,39449,36513,Southern,XYZ123,XYZ123,NA,NA
+Kystym,CEL,38942,36414,Ural,Kyshtym,XYZ123,NA,NA
+Korjazma,ARC,39641,36224,North West,Koryazhma,XYZ123,NA,NA
+Leningradskaja,KND,36940,36070,Southern,Leningradskaya,XYZ123,NA,NA
+Protvino,MOS,37308,35807,Central,XYZ123,XYZ123,NA,NA
+Svetlograd,STA,38520,35745,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Kinel,SAM,34491,35715,Volga,XYZ123,XYZ123,NA,NA
+Jablonovskij,ADY,26171,35639,Southern,Yablonovsky,XYZ123,NA,NA
+Cernjachovsk,KLN,40449,35432,North West,Chernyakhovsk,Insterburg,NA,NA
+Mirnyj,SCA,37188,35381,Far East,Mirny,XYZ123,NA,NA
+Lesozavodsk,PRI,37034,35310,Far East,XYZ123,XYZ123,NA,NA
+Millerovo,ROS,36499,35208,Southern,XYZ123,XYZ123,NA,NA
+Novokubansk,KND,34880,35173,Southern,XYZ123,XYZ123,NA,NA
+Kamenka,PEN,39577,35154,Volga,XYZ123,XYZ123,NA,NA
+Vjazniki,VLA,41248,35028,Central,Vyazniki,XYZ123,NA,NA
+Luga,LEN,38593,35000,North West,XYZ123,XYZ123,NA,NA
+Blagovescensk,BAS,34239,34967,Volga,Blagoveshchensk,XYZ123,Blagoveschensk,Blagoveschensk
+Jefremov,TUL,42350,34734,Central,Yefremov,XYZ123,NA,NA
+Zelenokumsk,STA,35839,34690,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Aznakajevo,TAT,34853,34587,Volga,Aznakayevo,XYZ123,Aznakaevo,NA
+Dalnegorsk,PRI,37519,34454,Far East,Dalnegorsk,XYZ123,NA,NA
+Novaja Usman,VRN,29270,34430,Central,Novaya Usman,XYZ123,NA,NA
+Gulkevici,KND,35244,34215,Southern,Gulkevichi,XYZ123,NA,NA
+Gaj,ORB,38301,34205,Volga,Gay,XYZ123,Gai,NA
+Valujki,BEL,35322,34193,Central,Valuyki,XYZ123,NA,NA
+Alatyr,CUV,38203,34176,Volga,Alatyr,XYZ123,NA,NA
+Korkino,CEL,38597,34166,Ural,XYZ123,XYZ123,NA,NA
+Nizneudinsk,IRK,36999,33971,Siberia,Nizhneudinsk,XYZ123,NA,NA
+Bogorodsk,NNO,35499,33931,Volga,XYZ123,XYZ123,NA,NA
+Vicuga,IVA,37583,33794,Central,Vichuga,XYZ123,NA,NA
+Privolzskij,SAR,34364,33647,Volga,Privolzhsky,XYZ123,NA,NA
+Korsakov,SCL,33526,33645,Far East,XYZ123,XYZ123,NA,NA
+Baltijsk,KLN,32697,33551,North West,Baltiysk,Pillau,NA,NA
+Istra,MOS,35111,33535,Central,XYZ123,XYZ123,NA,NA
+Suchoj Log,SVE,34554,33497,Ural,Sukhoy Log,XYZ123,NA,NA
+Furmanov,IVA,36144,33364,Central,XYZ123,XYZ123,NA,NA
+Cernuska,PER,33272,32952,Volga,Chernushka,XYZ123,NA,NA
+Tavda,SVE,35421,32932,Ural,XYZ123,XYZ123,NA,NA
+Tynda,AMU,36275,32920,Far East,XYZ123,XYZ123,NA,NA
+Tajset,IRK,35485,32754,Siberia,Tayshet,XYZ123,NA,NA
+Trechgornyj,CEL,33670,32613,Ural,Tryokhgorny,Zlatoust-36,NA,NA
+Satura,MOS,32885,32384,Central,Shatura,XYZ123,NA,NA
+Slobodskoj,KIR,33981,32382,Volga,Slobodskoy,XYZ123,NA,NA
+Nurlat,TAT,32601,32345,Volga,XYZ123,XYZ123,NA,NA
+Slancy,LEN,33485,32337,North West,Slantsy,XYZ123,NA,NA
+Ostrogozsk,VRN,33842,32317,Central,Ostrogozhsk,XYZ123,NA,NA
+Dobrjanka,PER,33686,32304,Volga,Dobryanka,XYZ123,NA,NA
+Primorsko-Achtarsk,KND,32257,32180,Southern,Primorsko-Akhtarsk,XYZ123,NA,NA
+Muravlenko,TUM,33391,32132,Ural,XYZ123,XYZ123,NA,NA
+Vjatskije Poljany,KIR,35162,32108,Volga,Vyatskiye Polyany,XYZ123,NA,NA
+Kulebaki,NNO,35759,32076,Volga,XYZ123,XYZ123,NA,NA
+Tejkovo,IVA,34976,32033,Central,Teykovo,XYZ123,NA,NA
+Mirnyj,ARC,30280,32028,North West,Mirny,XYZ123,NA,NA
+Uglic,JAR,34507,31861,Central,Uglich,XYZ123,NA,NA
+Kudrovo,LEN,NA,31577,North West,XYZ123,XYZ123,NA,NA
+Novovoronez,VRN,32635,31568,Central,Novovoronezh,XYZ123,NA,NA
+Serdobsk,PEN,35393,31475,Volga,XYZ123,XYZ123,NA,NA
+Velikij Ustjug,VLD,31665,31189,North West,Veliky Ustyug,XYZ123,NA,NA
+Marks,SAR,31531,31184,Volga,XYZ123,XYZ123,NA,NA
+Djurtjuli,BAS,31274,30912,Volga,Dyurtyuli,XYZ123,NA,NA
+Kudymkar,PER,28967,30904,Volga,XYZ123,XYZ123,NA,NA
+Nartkala,KBA,31694,30832,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Zima,IRK,32508,30818,Siberia,XYZ123,XYZ123,NA,NA
+Bogorodick,TUL,31897,30772,Central,Bogoroditsk,XYZ123,NA,NA
+Rostov,JAR,31792,30700,Central,XYZ123,XYZ123,NA,NA
+Kandalaksa,MUR,35654,30575,North West,Kandalaksha,XYZ123,NA,NA
+Blagodarnyj,STA,32725,30530,Northern Caucasus,Blagodarny,XYZ123,NA,NA
+Tomilino,MOS,30605,30482,Central,XYZ123,XYZ123,NA,NA
+Ust-Dzeguta,KCE,30566,30369,Northern Caucasus,Ust-Dzheguta,XYZ123,NA,NA
+Artemovskij,SVE,33160,30366,Ural,Artyomovsky,XYZ123,NA,NA
+Kirov,KLG,31882,30334,Central,XYZ123,XYZ123,NA,NA
+Luchovicy,MOS,29850,30290,Central,Lukhovitsy,XYZ123,NA,NA
+Kochma,IVA,29411,30220,Central,Kokhma,XYZ123,NA,NA
+Dedovsk,MOS,29108,30061,Central,XYZ123,XYZ123,NA,NA
+Mozajsk,MOS,31363,30056,Central,Mozhaysk,XYZ123,NA,NA
+Gorodec,NNO,30658,29854,Volga,Gorodets,XYZ123,NA,NA
+Ob,NSB,25382,29739,Siberia,XYZ123,XYZ123,NA,NA
+Kondopoga,KAR,32987,29735,North West,XYZ123,XYZ123,NA,NA
+Kasimov,RAZ,33491,29700,Central,XYZ123,XYZ123,NA,NA
+Starominskaja,KND,29809,29700,Southern,Starominskaya,XYZ123,NA,NA
+Sovetskij,TUM,26495,29624,Ural,Sovetsky,XYZ123,NA,NA
+Dagestanskije Ogni,DAG,27923,29555,Northern Caucasus,Dagestanskiye Ogni,XYZ123,Dagestanskie Ogni,NA
+Kotovsk,TAM,31850,29377,Central,XYZ123,XYZ123,NA,NA
+Slavgorod,ALT,32389,29371,Siberia,XYZ123,XYZ123,NA,NA
+Kostomuksa,KAR,28436,29367,North West,Kostomuksha,XYZ123,NA,NA
+Asa,CEL,31881,29274,Ural,Asha,XYZ123,NA,NA
+Alejsk,ALT,29510,29249,Siberia,Aleysk,XYZ123,NA,NA
+Divnogorsk,KNJ,28272,29195,Siberia,XYZ123,XYZ123,NA,NA
+Borzja,ZAB,31379,29181,Far East,Borzya,XYZ123,NA,NA
+Aprelevka,MOS,18349,29147,Central,XYZ123,XYZ123,NA,NA
+Markova,IRK,9894,29141,Siberia,XYZ123,XYZ123,NA,NA
+Bogdanovic,SVE,30670,29108,Ural,Bogdanovich,XYZ123,NA,NA
+Likino-Dulevo,MOS,31321,29036,Central,Likino-Dulyovo,XYZ123,NA,NA
+Gagarin,SMO,31721,28797,Central,XYZ123,XYZ123,NA,NA
+Barabinsk,NSB,30394,28786,Siberia,XYZ123,XYZ123,NA,NA
+Pavlovskaja,KND,31327,28760,Southern,Pavlovskaya,XYZ123,NA,NA
+Sumerlja,CUV,31722,28647,Volga,Shumerlya,XYZ123,NA,NA
+Gubkinskij,TUM,23335,28564,Ural,Gubkinsky,XYZ123,NA,NA
+Petrovsk,SAR,31160,28490,Volga,XYZ123,XYZ123,NA,NA
+Kartaly,CEL,29131,28442,Ural,XYZ123,XYZ123,NA,NA
+Gusev,KLN,28260,28307,North West,XYZ123,Gumbinnen,NA,NA
+Jemanzelinsk,CEL,30216,28217,Ural,Yemanzhelinsk,XYZ123,NA,NA
+Kuscevskaja,KND,28362,28080,Southern,Kushchyovskaya,XYZ123,NA,NA
+Pochvistnevo,SAM,28169,28044,Volga,Pokhvistnevo,XYZ123,NA,NA
+Staraja Russa,NGR,31809,28043,North West,Staraya Russa,XYZ123,NA,NA
+Tara,OMS,27318,27975,Siberia,XYZ123,XYZ123,NA,NA
+Inozemcevo,STA,28398,27935,Northern Caucasus,Inozemtsevo,XYZ123,NA,NA
+Zarecnyj,SVE,26820,27795,Ural,Zarechny,XYZ123,NA,NA
+Novotitarovskaja,KND,24754,27760,Southern,XYZ123,XYZ123,NA,NA
+Udomlja,TVE,31061,27641,Central,Udomlya,XYZ123,NA,NA
+Topki,KEM,28641,27639,Siberia,XYZ123,XYZ123,NA,NA
+Kusva,SVE,30167,27624,Ural,Kushva,XYZ123,NA,NA
+Cholmsk,SCL,30937,27479,Far East,Kholmsk,XYZ123,NA,NA
+Malojaroslavec,KLG,30392,27411,Central,Maloyaroslavets,XYZ123,NA,NA
+Desnogorsk,SMO,29677,27322,Central,XYZ123,XYZ123,NA,NA
+Kajerkan,KNJ,27300,27300,Siberia,Kayerkan,XYZ123,NA,NA
+Sorocinsk,ORB,29249,27164,Volga,Sorochinsk,XYZ123,NA,NA
+Znamensk,AST,29401,27071,Southern,XYZ123,Kasputin Jar-1,NA,NA
+Sol-Ileck,ORB,28377,26978,Volga,Sol-Iletsk,XYZ123,NA,NA
+Majskij,KBA,26755,26945,Northern Caucasus,Maysky,XYZ123,NA,NA
+Verchnij Ufalej,CEL,30481,26885,Ural,Verkhny Ufaley,XYZ123,NA,NA
+Semiluki,VRN,26023,26805,Central,XYZ123,XYZ123,NA,NA
+Novoaleksandrovsk,STA,26757,26761,Northern Caucasus,Novoalexandrovsk,XYZ123,NA,NA
+Kirovsk,LEN,25650,26683,North West,XYZ123,Leningrad oblast,NA,NA
+Karasuk,NSB,28586,26673,Siberia,XYZ123,XYZ123,NA,NA
+Oktjabrsk,SAM,27244,26512,Volga,Oktyabrsk,XYZ123,NA,NA
+Djatkovo,BRA,29439,26483,Central,Dyatkovo,XYZ123,NA,NA
+Krasnoarmejsk,MOS,26294,26463,Central,Krasnoarmeysk,XYZ123,NA,NA
+Severskaja,KND,24867,26450,Southern,Severskaya,XYZ123,NA,NA
+Poltavskaja,KND,26490,26422,Southern,Poltavskaya,XYZ123,NA,NA
+Vlasicha,MOS,26359,26417,Central,XYZ123,XYZ123,NA,NA
+Kirzac,VLA,29965,26331,Central,Kirzhach,XYZ123,NA,NA
+Kamyslov,SVE,26870,26301,Ural,Kamyshlov,XYZ123,NA,NA
+Karpinsk,SVE,29113,26249,Ural,XYZ123,XYZ123,NA,NA
+Segeza,KAR,29631,26241,North West,Segezha,XYZ123,NA,NA
+Krasnoobsk,NSB,18448,26241,Siberia,XYZ123,XYZ123,NA,NA
+Kirejevsk,TUL,25557,26217,Central,Kireyevsk,XYZ123,Kireevsk,NA
+Labytnangi,TUM,26936,26211,Ural,XYZ123,XYZ123,NA,NA
+Kirovsk,MUR,28625,26206,North West,XYZ123,Murmansk oblast,NA,NA
+Zavodoukovsk,TUM,25647,26195,Ural,XYZ123,XYZ123,NA,NA
+Pojkovskij,TUM,25594,26163,Ural,Poykovsky,XYZ123,NA,NA
+Sosnogorsk,KOM,27757,26130,North West,XYZ123,XYZ123,NA,NA
+Kurcaloj,CEC,22723,26115,Northern Caucasus,Kurchaloy,XYZ123,NA,NA
+Novopavlovsk,STA,26562,26106,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Polysajevo,KEM,27624,26012,Siberia,Polysayevo,XYZ123,Polysaevo,NA
+Skopin,RAZ,30376,26005,Central,XYZ123,XYZ123,NA,NA
+Ilskij,KND,23781,25981,Southern,Ilsky,XYZ123,NA,NA
+Severouralsk,SVE,29263,25827,Ural,Severouralsk,XYZ123,NA,NA
+Balabanovo,KLG,26337,25775,Central,XYZ123,XYZ123,NA,NA
+Kimovsk,TUL,28485,25727,Central,XYZ123,XYZ123,Klimovsk,NA
+Otradnoje,LEN,23866,25623,North West,Otradnoye,XYZ123,NA,NA
+Dalnerecensk,PRI,27604,25482,Far East,Dalnerechensk,XYZ123,NA,NA
+Tbilisskaja,KND,25317,25410,Southern,Tbilisskaya,XYZ123,NA,NA
+Jelizavetinskaja,KND,24755,25400,Southern,Elizavetinskaya,XYZ123,NA,NA
+Malachovka,MOS,24004,25371,Central,Malakhovka,XYZ123,NA,NA
+Janaul,BAS,26924,25361,Volga,Yanaul,XYZ123,NA,NA
+Losino-Petrovskij,MOS,22550,25317,Central,Losino-Petrovsky,XYZ123,NA,NA
+Kocubejevskoje,STA,26835,25279,Northern Caucasus,Kochubeyevskoye,XYZ123,NA,NA
+Aleksandrovskoje,STA,27471,25100,Northern Caucasus,Alexandrovskoye,XYZ123,NA,NA
+Mostovskoj,KND,25075,25014,Southern,Mostovskoy,XYZ123,NA,NA
+Ozery,MOS,25800,25012,Central,Ozyory,XYZ123,NA,NA
+Mednogorsk,ORB,27292,24896,Volga,XYZ123,XYZ123,NA,NA
+Inta,KOM,32080,24878,North West,XYZ123,XYZ123,NA,NA
+Narjan-Mar,ARC,21658,24827,North West,Naryan-Mar,XYZ123,NA,NA
+Morozovsk,ROS,27642,24822,Southern,XYZ123,XYZ123,NA,NA
+Zeleznovodsk,STA,24433,24768,Northern Caucasus,Zheleznovodsk,XYZ123,NA,NA
+Atkarsk,SAR,25624,24669,Volga,XYZ123,XYZ123,NA,NA
+Pavlovsk,VRN,25126,24542,Central,XYZ123,XYZ123,NA,NA
+Sasovo,RAZ,28118,24523,Central,XYZ123,XYZ123,NA,NA
+Neftekumsk,STA,27687,24472,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Kraskovo,MOS,21250,24366,Central,XYZ123,XYZ123,NA,NA
+Zernograd,ROS,26842,24217,Southern,XYZ123,XYZ123,NA,NA
+Acchoj-Martan,CEC,20172,24212,Northern Caucasus,Achkhoy-Martan,XYZ123,NA,NA
+Semenov,NNO,24473,24180,Volga,Semyonov,XYZ123,NA,NA
+Asino,TOM,25618,24141,Siberia,XYZ123,XYZ123,NA,NA
+Buturlinovka,VRN,27208,24062,Central,XYZ123,XYZ123,NA,NA
+Rodniki,IVA,26310,24061,Central,XYZ123,XYZ123,NA,NA
+Stroitel,BEL,23933,24038,Central,XYZ123,XYZ123,NA,NA
+Sovetskaja Gavan,CBR,27712,23816,Far East,Sovetskaya Gavan,XYZ123,NA,NA
+Kalac-na-Donu,VGG,26910,23813,Southern,Kalach-na-Donu,XYZ123,NA,NA
+Sarja,KOS,23681,23807,Central,Sharya,XYZ123,NA,NA
+Sredneuralsk,SVE,20449,23583,Ural,Sredneuralsk,XYZ123,NA,NA
+Ipatovo,STA,26053,23579,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Buj,KOS,25763,23578,Central,Buy,XYZ123,NA,NA
+Uvarovo,TAM,26830,23578,Central,XYZ123,XYZ123,NA,NA
+Tatarsk,NSB,24217,23523,Siberia,XYZ123,XYZ123,NA,NA
+Davlekanovo,BAS,24073,23499,Volga,XYZ123,XYZ123,NA,NA
+Nesterovskaja,ING,21937,23492,Northern Caucasus,Nesterovskaya,XYZ123,NA,NA
+Kuvandyk,ORB,26169,23373,Volga,XYZ123,XYZ123,NA,NA
+Kolpasevo,TOM,24124,23260,Siberia,Kolpashevo,XYZ123,NA,NA
+Kotelnic,KIR,24979,23244,Volga,Kotelnich,XYZ123,NA,NA
+Lensk,SCA,24966,23237,Far East,XYZ123,XYZ123,NA,NA
+Otradnaja,KND,23204,23190,Southern,Otradnaya,XYZ123,NA,NA
+Tajga,KEM,25331,23168,Siberia,Tayga,XYZ123,NA,NA
+Severobajkalsk,BUR,24929,23159,Far East,Severobaykalsk,XYZ123,NA,NA
+Zeleznogorsk-Ilimskij,IRK,26079,23137,Siberia,Zheleznogorsk-Ilimsky,XYZ123,NA,NA
+Tastagol,KEM,23134,23117,Siberia,Tashtagol,XYZ123,NA,NA
+Uneca,BRA,26197,23097,Central,Unecha,XYZ123,NA,NA
+Zeja,AMU,24986,23093,Far East,Zeya,XYZ123,NA,NA
+Fedorovskij,TUM,20288,23091,Ural,Fedorovsky,XYZ123,NA,NA
+Gusinoozersk,BUR,24582,23075,Far East,Gusinoozyorsk,XYZ123,NA,NA
+Fokino,PRI,23696,23058,Far East,XYZ123,Skotovo-17,NA,NA
+Gorodisce,VGG,21381,23054,Southern,Gorodishche,XYZ123,NA,NA
+Kalininec,MOS,21774,23050,Central,XYZ123,XYZ123,NA,NA
+Nevjansk,SVE,24567,22943,Ural,Nevyansk,XYZ123,NA,NA
+Zarajsk,MOS,24645,22887,Central,Zaraysk,XYZ123,NA,NA
+Jessentukskaja,STA,20166,22880,Northern Caucasus,Yessentukskaya,XYZ123,NA,NA
+Elektrogorsk,MOS,22480,22842,Central,XYZ123,XYZ123,NA,NA
+Cismy,BAS,21196,22733,Volga,Chishmy,XYZ123,NA,NA
+Krasnouralsk,SVE,24980,22725,Ural,Krasnouralsk,XYZ123,NA,NA
+Bronnicy,MOS,21102,22643,Central,Bronnitsy,XYZ123,NA,NA
+Krasnoarmejsk,SAR,24364,22617,Volga,Krasnoarmeysk,XYZ123,NA,NA
+Isilkul,OMS,24482,22615,Siberia,Isilkul,XYZ123,NA,NA
+Lermontov,STA,22541,22601,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Kalacinsk,OMS,23556,22587,Siberia,Kalachinsk,XYZ123,NA,NA
+Gurjevsk,KEM,24817,22569,Siberia,Guryevsk,XYZ123,NA,NA
+Kommunar,LEN,20211,22522,North West,XYZ123,XYZ123,NA,NA
+Nikolskoje,LEN,19280,22490,North West,Nikolskoye,XYZ123,NA,NA
+Staraja Kupavna,MOS,21811,22476,Central,Staraya Kupavna,XYZ123,NA,NA
+Chadyzensk,KND,21579,22315,Southern,Khadyzhensk,XYZ123,NA,NA
+Velsk,ARC,23885,22311,North West,Velsk,XYZ123,NA,NA
+Mendelejevsk,TAT,22075,22305,Volga,Mendeleyevsk,XYZ123,Mendeleevsk,NA
+Afipskij,KND,18969,22154,Southern,Afipsky,XYZ123,NA,NA
+Bavly,TAT,22109,22145,Volga,XYZ123,XYZ123,NA,NA
+Bezencuk,SAM,22952,22093,Volga,Bezenchuk,XYZ123,NA,NA
+Ust-Katav,CEL,23580,22042,Ural,XYZ123,XYZ123,NA,NA
+Viljucinsk,KAM,22905,21979,Far East,Vilyuchinsk,Petropavlovsk-Kamcatskij-50,NA,NA
+Zvenigorod,MOS,16395,21931,Central,XYZ123,XYZ123,NA,NA
+Semikarakorsk,ROS,23884,21896,Southern,XYZ123,XYZ123,NA,NA
+Omutninsk,KIR,23615,21844,Volga,XYZ123,XYZ123,NA,NA
+Kotovo,VGG,24115,21780,Southern,XYZ123,XYZ123,NA,NA
+Svetlyj,KLN,21375,21679,North West,Svetly,XYZ123,NA,NA
+Verescagino,PER,22156,21648,Volga,Vereshchagino,XYZ123,Vereschagino,NA
+Tarko-Sale,TUM,20398,21583,Ural,XYZ123,XYZ123,NA,NA
+Chotkovo,MOS,21505,21236,Central,Khotkovo,XYZ123,NA,NA
+Rjazsk,RAZ,21674,21189,Central,Ryazhsk,XYZ123,NA,NA
+Lyskovo,NNO,21880,21176,Volga,XYZ123,XYZ123,NA,NA
+Achtyrskij,KND,20100,21169,Southern,Akhtyrsky,XYZ123,NA,NA
+Sysert,SVE,20465,21091,Ural,Sysert,XYZ123,NA,NA
+Togucin,NSB,21900,21063,Siberia,Toguchin,XYZ123,NA,NA
+Nerechta,KOS,22828,21060,Central,Nerekhta,XYZ123,NA,NA
+Cernogolovka,MOS,20983,21059,Central,Chernogolovka,XYZ123,NA,NA
+Karacajevsk,KCE,21483,21027,Northern Caucasus,Karachayevsk,XYZ123,NA,NA
+Vichorevka,IRK,22520,20955,Siberia,Vikhorevka,XYZ123,NA,NA
+Dudinka,KNJ,22175,20952,Siberia,XYZ123,XYZ123,NA,NA
+Osa,PER,21188,20899,Volga,XYZ123,XYZ123,NA,NA
+Berezovka,KNJ,20887,20847,Siberia,Beryozovka,XYZ123,NA,NA
+Puscino,MOS,20332,20797,Central,Pushchino,XYZ123,NA,NA
+Bezeck,TVE,24522,20778,Central,Bezhetsk,XYZ123,NA,NA
+Bologoje,TVE,23494,20739,Central,Bologoye,XYZ123,Bologoe,NA
+Olenegorsk,MUR,23072,20697,North West,XYZ123,XYZ123,NA,NA
+Buinsk,TAT,20352,20681,Volga,XYZ123,XYZ123,NA,NA
+Elektrougli,MOS,20136,20670,Central,XYZ123,XYZ123,NA,NA
+Niznij Lomov,PEN,22678,20662,Volga,Nizhny Lomov,XYZ123,NA,NA
+Monino,MOS,22821,20632,Central,XYZ123,XYZ123,NA,NA
+Dygulubgej,KBA,20228,20619,Northern Caucasus,Dygulybgey,XYZ123,NA,NA
+Kaltan,KEM,21892,20610,Siberia,XYZ123,XYZ123,NA,NA
+Kurovskoje,MOS,21819,20605,Central,Kurovskoye,XYZ123,Kurovskoe,NA
+Bruchoveckaja,KND,22139,20570,Southern,Bryukhovetskaya,XYZ123,NA,NA
+Arsk,TAT,18114,20523,Volga,XYZ123,XYZ123,NA,NA
+Tyrnyauz,KBA,21000,20513,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Ostrov,PSK,21668,20482,North West,XYZ123,XYZ123,NA,NA
+Ocha,SCL,23008,20391,Far East,Okha,XYZ123,NA,NA
+Bobrov,VRN,19738,20238,Central,XYZ123,XYZ123,NA,NA
+Rosal,MOS,21272,20225,Central,Roshal,XYZ123,NA,NA
+Kotelnikovo,VGG,20428,20195,Southern,Kotelnikovo,XYZ123,NA,NA
+Razumnoje,BEL,16600,20172,Central,Razumnoye,XYZ123,NA,NA
+Kjachta,BUR,20024,20157,Far East,Kyakhta,XYZ123,NA,NA
+Kozmodemjansk,MRE,21257,20134,Volga,Kozmodemyansk,XYZ123,NA,NA
+Rybnoje,RAZ,18380,20125,Central,Rybnoye,XYZ123,NA,NA
+Kubinka,MOS,22964,20104,Central,XYZ123,XYZ123,NA,NA
+Uva,UDM,19984,20090,Volga,XYZ123,XYZ123,NA,NA
+Nikolsk,PEN,22471,20045,Volga,Nikolsk,XYZ123,NA,NA
+Igra,UDM,20737,20040,Volga,XYZ123,XYZ123,NA,NA
+Alagir,SOE,20949,20013,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Sergac,NNO,21386,19997,Volga,Sergach,XYZ123,NA,NA
+Pikalevo,LEN,21562,19981,North West,Pikalyovo,XYZ123,NA,NA
+Aldan,SCA,21275,19958,Far East,XYZ123,XYZ123,NA,NA
+Oktjabrskij,MOS,13165,19878,Central,Oktyabrsky,XYZ123,NA,NA
+Bogotol,KNJ,21051,19819,Siberia,XYZ123,XYZ123,NA,NA
+Sachunja,NNO,20921,19790,Volga,Shakhunya,XYZ123,NA,NA
+Juznyj,ALT,19233,19670,Siberia,Yuzhny,XYZ123,NA,NA
+Usman,LIP,18685,19653,Central,XYZ123,XYZ123,NA,NA
+Belojarskij,TUM,20283,19542,Ural,Beloyarsky,XYZ123,NA,NA
+Niznjaja Tura,SVE,22006,19535,Ural,Nizhnyaya Tura,XYZ123,NA,NA
+Terek,KBA,19170,19494,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Gubacha,PER,28111,19472,Volga,Gubakha,XYZ123,NA,NA
+Cerepanovo,NSB,19803,19439,Siberia,Cherepanovo,XYZ123,NA,NA
+Njandoma,ARC,22356,19416,North West,Nyandoma,XYZ123,NA,NA
+Lodejnoje Pole,LEN,20674,19270,North West,Lodeynoye Pole,XYZ123,NA,NA
+Nezlobnaja,STA,19746,19240,Northern Caucasus,Nezlobnaya,XYZ123,NA,NA
+Jersov,SAR,21448,19237,Volga,Yershov,XYZ123,NA,NA
+Lebedjan,LIP,21012,19208,Central,Lebedyan,XYZ123,NA,NA
+Volokolamsk,MOS,23433,19162,Central,XYZ123,XYZ123,NA,NA
+Prijutovo,BAS,20891,19132,Volga,Priyutovo,XYZ123,NA,NA
+Rajevskij,BAS,19557,19058,Volga,XYZ123,XYZ123,NA,NA
+Talmenka,ALT,18814,19046,Siberia,XYZ123,XYZ123,NA,NA
+Bakal,CEL,20940,19009,Ural,XYZ123,XYZ123,NA,NA
+Kovylkino,MOR,21307,18978,Volga,XYZ123,XYZ123,NA,NA
+Kirovgrad,SVE,21035,18956,Ural,XYZ123,XYZ123,NA,NA
+Lucegorsk,PRI,21004,18931,Far East,Luchegorsk,XYZ123,NA,NA
+Sortavala,KAR,19235,18847,North West,XYZ123,XYZ123,NA,NA
+Dankov,LIP,21064,18830,Central,XYZ123,XYZ123,NA,NA
+Onega,ARC,21359,18830,North West,XYZ123,XYZ123,NA,NA
+Proletarsk,ROS,20267,18781,Southern,XYZ123,XYZ123,NA,NA
+Abdulino,ORB,20173,18768,Volga,XYZ123,XYZ123,NA,NA
+Seksna,VLD,20953,18760,North West,Sheksna,XYZ123,NA,NA
+Ekazevo,ING,15658,18651,Northern Caucasus,Ekazhevo,XYZ123,NA,NA
+Zverevo,ROS,22411,18561,Southern,XYZ123,XYZ123,NA,NA
+Simanovsk,AMU,19815,18542,Far East,Shimanovsk,XYZ123,NA,NA
+Novyj Oskol,BEL,19530,18538,Central,Novy Oskol,XYZ123,NA,NA
+Lgov,KRS,21453,18435,Central,Lgov,XYZ123,NA,NA
+Kalac,VRN,20046,18429,Central,Kalach,XYZ123,NA,NA
+Surovikino,VGG,20533,18375,Southern,XYZ123,XYZ123,NA,NA
+Nytva,PER,19041,18366,Volga,XYZ123,XYZ123,NA,NA
+Nelidovo,TVE,22896,18351,Central,XYZ123,XYZ123,NA,NA
+Orlovskij,ROS,20002,18332,Southern,Orlovsky,XYZ123,NA,NA
+Priozersk,LEN,18933,18229,North West,XYZ123,XYZ123,NA,NA
+Nikolajevsk-na-Amure,CBR,22752,18159,Far East,Nikolayevsk-on-Amur,XYZ123,NA,NA
+Jarovoje,ALT,18604,18052,Siberia,Yarovoye,XYZ123,NA,NA
+Linevo,NSB,20707,18051,Siberia,Linyovo,XYZ123,NA,NA
+Troickaja,ING,16225,17884,Northern Caucasus,XYZ123,XYZ123,NA,NA
+Zelencukskaja,KCE,19449,17880,Northern Caucasus,Zelenchukskaya,XYZ123,NA,NA
+Jenisejsk,KNJ,18766,17805,Siberia,Yeniseysk,XYZ123,NA,NA
+Karacev,BRA,19715,17466,Central,Karachev,XYZ123,NA,NA
+Inza,ULJ,18803,17442,Volga,XYZ123,XYZ123,NA,NA
+Sobinka,VLA,19482,17375,Central,XYZ123,XYZ123,NA,NA
+Suvorov,TUL,18973,17360,Central,XYZ123,XYZ123,NA,NA
+Rajcichinsk,AMU,20534,17098,Far East,Raychikhinsk,XYZ123,NA,NA
+Podporozje,LEN,18733,16942,North West,Podporozhye,XYZ123,NA,NA
+Kusa,CEL,18792,16913,Ural,XYZ123,XYZ123,NA,NA
+Novomicurinsk,RAZ,19309,16503,Central,Novomichurinsk,XYZ123,NA,NA
+Kovdor,MUR,18820,16435,North West,XYZ123,XYZ123,NA,NA
+Petrovsk-Zabajkalskij,ZAB,18549,15880,Far East,Petrovsk-Zabaykalsky,XYZ123,NA,NA
+Anadyr,CUK,13045,15849,Far East,Anadyr,XYZ123,NA,NA
+Ostaskov,TVE,18088,15666,Central,Ostashkov,XYZ123,NA,NA
+Katav-Ivanovsk,CEL,17630,15659,Ural,XYZ123,XYZ123,NA,NA
+Kizel,PER,19587,14162,Volga,XYZ123,XYZ123,NA,NA
